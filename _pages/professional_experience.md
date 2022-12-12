@@ -1,6 +1,6 @@
 ---
 layout: page
-title: professional experience
+title: prof. experience
 permalink: /professionalexperience/
 description: 
 nav: true
