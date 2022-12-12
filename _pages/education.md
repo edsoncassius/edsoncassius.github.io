@@ -8,7 +8,7 @@ nav_order: 3
 horizontal: false
 ---
 
-Passionate for technology and signal processing, I graduated in Information Engineering in 2018 in the Universidade Federal do ABC (UFABC) in Santo Andre, Sao Paulo - Brazil. UFABC is an accredited institution of higher learning in Brazil and with a very competitive recruitment process. GPA: 2.9 (above the average of 2.0 for the whole institution). <a href='https://github.com/edsoncassius/edsoncassius.github.io/blob/master/assets/pdf/morningside_evals.pdf'>(1)</a>
+Passionate for technology and signal processing, I graduated in Information Engineering in 2018 in the Universidade Federal do ABC (UFABC) in Santo Andre, Sao Paulo - Brazil. UFABC is an accredited institution of higher learning in Brazil and with a very competitive recruitment process. GPA: 2.9 (above the average of 2.0 for the whole institution). <a href='https://github.com/edsoncassius/edsoncassius.github.io/blob/master/assets/pdf/morningside_eval.pdf'>(1)</a>
 
 My final project was a fall detector system for elders and patients, capturing and analyzing data, and sending notifications through the Google Cloud API. <a href='https://graduacao.ufabc.edu.br/informacao/wp-content/uploads/2022/03/2017_3_edson_lopes.pdf'>(2)</a>
 
