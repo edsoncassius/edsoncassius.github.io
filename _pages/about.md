@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: edson.cassius@gmail.com
 
 profile:
   align: right
@@ -11,9 +11,22 @@ profile:
   address: >
     <p>Wakefield, MA</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Edson Cassius.
+Hi, I'm Edson Cassius. I love technology, games and sports!
+
+I like to analyze data and build dynamic dashboards to find insights that information is able to provide us with a single click.
+
+I'm always trying to find answers to questions that can't be easily seen without a deeper analysis and evaluation of data.
+
+As a machine learning enthusiast, I like to build prediction models using the most recent technologies to promote data-driven decisions and find even more answers and insights.
+
+Passionate with gaming and data, I try to connect both worlds and build programs to connect APIs and databases for transforming and visualizing data.
+
+
+
+
+
