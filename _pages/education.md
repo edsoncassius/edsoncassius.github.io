@@ -24,7 +24,7 @@ To be able to get a Bachelor's in Information Engineering (2018) I had also to g
 
 The Information Engineering course is divided into three main fields: Multimedia Processing, Networks and Telecommunication, encompassing the whole spectrum of transmission and analysis of information.
 
-I graduated with a GPA of 2.9, without ever failing a single course. The grading system is different than U.S. universities and some courses are extremely hard to have a good grade, students for UFABC have an average of 2.0 GPA. <a href='https://github.com/edsoncassius/edsoncassius.github.io/blob/master/assets/pdf/morningside_eval.pdf'>(1)</a>
+I graduated with a GPA of 2.9, without ever failing a single course. The grading system is different than U.S. universities and some courses are extremely hard to get a good grade, students of UFABC have an average of 2.0 GPA. <a href='https://github.com/edsoncassius/edsoncassius.github.io/blob/master/assets/pdf/morningside_eval.pdf'>(1)</a>
 
 My final project was a fall detector system for elders and patients, capturing and analyzing data, and sending notifications through the Google Cloud API. <a href='https://graduacao.ufabc.edu.br/informacao/wp-content/uploads/2022/03/2017_3_edson_lopes.pdf'>(2)</a>
 
