@@ -9,7 +9,7 @@ category: fun
 
 #### Data Extraction
 Each player Hiscores Data is obtained hourly from the available OSRS API: 
-E.g. https://secure.runescape.com/m=hiscore_oldschool/index_lite.ws?player=zezima
+E.g. <a href="https://secure.runescape.com/m=hiscore_oldschool/index_lite.ws?player=zezima">https://secure.runescape.com/m=hiscore_oldschool/index_lite.ws?player=zezima</a>
 
 Data is paired with the respective names for each skill and boss kill count.
 <div class="row">

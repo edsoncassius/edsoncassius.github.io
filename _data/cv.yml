@@ -11,9 +11,15 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science in Computer Engineering
+    - title: Business Program
+      institution: Approach International Student Center, Boston - MA
+      year: 2021
+    - title: Bachelor of Science in Computer Engineering (Information Engineering)
       institution: Universidade Federal do ABC, Santo Andre, Sao Paulo - Brazil
       year: 2018
+    - title: Bachelor of Science and Technology
+      institution: Universidade Federal do ABC, Santo Andre, Sao Paulo - Brazil
+      year: 2016
     - title: Software Information Engineering Exchange Program
       institution: Eötvös Loránd University, Budapest - Hungary
       year: 2014
