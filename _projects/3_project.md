@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Ecommerce Data Analytics and forecasting
+description: Dashboards for evaluating sale's data and predicting seasonal sale's for different products.
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 3
+importance: 1
 category: work
 ---
 

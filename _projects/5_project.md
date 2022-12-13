@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: The Great Passage
+description: Android VR game developed on Unity 3D and blender. It is a maze game where the user has to go through three different mazes in order to achieve his objective go from hell to heaven.
+img:
+redirect: https://github.com/edsoncassius/TheGreatPassage
 importance: 3
 category: fun
 ---

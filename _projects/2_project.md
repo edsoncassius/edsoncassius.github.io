@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
+title: Fall Detector System with notification and data tracking
+description: This project was developed as the Final Project for the Information Engineering degree.
+img: assets/img/tg_circuit.png
+redirect: https://graduacao.ufabc.edu.br/informacao/wp-content/uploads/2022/03/2017_3_edson_lopes.pdf
+importance: 3
 category: work
 ---
 

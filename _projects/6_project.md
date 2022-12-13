@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Predicting Animals in Images
+description: Project for training and testing algorithms for predicting which type of animal is in the image.
 img:
-importance: 4
+importance: 1
 category: fun
 ---
 
