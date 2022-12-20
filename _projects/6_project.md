@@ -3,6 +3,7 @@ layout: page
 title: Predicting Flowers in Images
 description: Project for training and testing algorithms for predicting which type of flower is in the image.
 img: assets/img/flower_predict.png
+redirect: https://github.com/edsoncassius/flowerclassifier/blob/main/flowers.ipynb
 importance: 1
 category: fun
 ---
