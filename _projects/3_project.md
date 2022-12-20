@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Ecommerce Data Analytics and forecasting
+title: Sales and Ecommerce Data Analytics and forecasting
 description: Dashboards for evaluating sale's data and predicting seasonal sale's for different products.
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/ecommerce_dashboard.png
 importance: 1
 category: work
 ---

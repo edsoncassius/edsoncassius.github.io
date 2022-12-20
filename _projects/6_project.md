@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Predicting Animals in Images
-description: Project for training and testing algorithms for predicting which type of animal is in the image.
-img:
+title: Predicting Flowers in Images
+description: Project for training and testing algorithms for predicting which type of flower is in the image.
+img: assets/img/flower_predict.png
 importance: 1
 category: fun
 ---

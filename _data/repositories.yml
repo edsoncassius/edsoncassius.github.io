@@ -4,5 +4,7 @@ github_users:
 github_repos:
   - edsoncassius/osrsdata
   - edsoncassius/wbodata
+  - edsoncassius/flowerclassifier
+  - edsoncassius/salesdata
   - edsoncassius/TheGreatPassage
   - edsoncassius/mimic-code
