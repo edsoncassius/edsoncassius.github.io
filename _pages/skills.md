@@ -1,13 +1,13 @@
 ---
 layout: page
-title: skills
+title: <b>Skills
 permalink: /skills/
 description: 
 nav: true
 nav_order: 2
 horizontal: false
 ---
-## soft skills
+## Soft Skills
 
 <br>
 
@@ -19,7 +19,7 @@ horizontal: false
 
 <br>
 
-## hard skills
+## Hard Skills
 
 <br>
 

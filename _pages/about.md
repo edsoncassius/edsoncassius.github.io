@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: <b>About
 permalink: /
 subtitle: edson.cassius@gmail.com
 
@@ -18,9 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Edson Cassius. I love technology, games and sports!
 
-I like to analyze data and build dynamic dashboards to find insights that information is able to provide us with a single click.
-
-I'm always trying to find answers to questions that can't be easily seen without a deeper analysis and evaluation of data.
+I analyze data and build dynamic dashboards to find insights that information is able to provide. I try to find answers to questions that can't be easily seen without a deeper analysis of data.
 
 As a machine learning enthusiast, I like to build prediction models using the most recent technologies to promote data-driven decisions and find even more answers and insights.
 

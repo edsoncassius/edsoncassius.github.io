@@ -1,12 +1,16 @@
 ---
 layout: page
-title: professional exp.
+title: <b>Professional Experience
 permalink: /professionalexperience/
 description: 
 nav: true
 nav_order: 4
 horizontal: false
 ---
+
+## Spring Air, Boston - MA
+
+<br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-5">
@@ -22,6 +26,10 @@ Spring Air is one the biggest mattress manufacturers in the U.S., with multiple 
 
 <br>
 
+## Hospital Albert Einstein, Sao Paulo - SP, Brazil
+
+<br>
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/albert-einstein.png" title="Albert Einstein Hospital" class="img-fluid rounded z-depth-0" %}
@@ -33,6 +41,12 @@ Spring Air is one the biggest mattress manufacturers in the U.S., with multiple 
 My educational and research background helped me to get an Intern job in 2017 as a Data Scientist in the Albert Einstein Israelite Hospital, in Sao Paulo, Brazil. The hospital is recognized as one of the best hospitals in Brazil and the selection process had multiple highly evaluated candidates. Within a year, I was soon hired as a Jr. Data Scientist and later promoted to Data Scientist.  
 
 In the hospital I had the opportunity to develop my programming skills to build a Data Lake and a Hadoop Environment working from professionals from different fields. I also implemented many machine learning projects for forecasting, categorization and predicting outcomes.
+
+<br>
+
+## 4D Soft, Budapest, Hungary
+
+<br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-3 mt-3 mt-md-0">

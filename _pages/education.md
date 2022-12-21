@@ -1,12 +1,17 @@
 ---
 layout: page
-title: education
+title: <b>Education
 permalink: /education/
 description: 
 nav: true
 nav_order: 3
 horizontal: false
 ---
+
+## Information/Computer Engineering
+
+<br>
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/ufabc.png" title="ufabc" class="img-fluid rounded z-depth-0" %}
@@ -18,18 +23,19 @@ horizontal: false
 
 <br>
 
-Passionate for technology and signal processing, I graduated in Information Engineering in 2018 in the Universidade Federal do ABC (UFABC) in Santo Andre, Sao Paulo - Brazil. UFABC is an accredited institution of higher learning in Brazil and with a very competitive recruitment process. The UFABC is the only federal university in Brazil with a doctoral degree of 100% of professors.
+Passionate for technology and signal processing, I graduated in Information Engineering in 2018 in the Universidade Federal do ABC (UFABC) in Santo Andre, Sao Paulo - Brazil. UFABC is an accredited institution of higher learning in Brazil and with a very competitive recruitment process. UFABC is the only federal university in Brazil with 100% of professors with a doctoral degree.
 
 To be able to get a Bachelor's in Information Engineering (2018) I had also to graduate as a Bachelor of Science and Technology (2016).
 
 The Information Engineering course is divided into three main fields: Multimedia Processing, Networks and Telecommunication, encompassing the whole spectrum of transmission and analysis of information.
 
-I graduated with a GPA of 2.9, without ever failing a single course. The grading system is different than U.S. universities and some courses are extremely hard to get a good grade, students of UFABC have an average of 2.0 GPA. <a href='https://github.com/edsoncassius/edsoncassius.github.io/blob/master/assets/pdf/morningside_eval.pdf'>(1)</a>
+I graduated with a GPA of 2.9, without ever failing a single course. The grading system is different than U.S. universities and some courses are extremely hard to get a good grade, students of UFABC have an average of 2.0 GPA. Course is certified by Morningside Evaluations as the equivalent of a Bachelor of Science in Computer Engineering from an accredited institution of higher education in the United States. <a href='https://github.com/edsoncassius/edsoncassius.github.io/blob/master/assets/pdf/morningside_eval.pdf'>(1)</a>
 
 My final project was a fall detector system for elders and patients, capturing and analyzing data, and sending notifications through the Google Cloud API. <a href='https://graduacao.ufabc.edu.br/informacao/wp-content/uploads/2022/03/2017_3_edson_lopes.pdf'>(2)</a>
 
 As a bachelor student, I was able to maintain high enough grades to receive a scholarship for a Scientific Research Program for FAPESP in Chemistry Learning in 2012. Gathering, organizing and transcripting data where one of the actitivies involved to do the research project. 
 
+## Software Information Engineering Exchange Program
 <br>
 
 <div class="row justify-content-sm-center">

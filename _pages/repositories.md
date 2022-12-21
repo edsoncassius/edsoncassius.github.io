@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: <b>Repositories
 description: Repositories from Github from my own and forked projects.
 nav: true
 nav_order: 6
