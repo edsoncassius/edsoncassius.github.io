@@ -8,12 +8,10 @@ nav_order: 4
 horizontal: false
 ---
 
-## Spring Air, Boston - MA
-
-<br>
+#### Spring Air, Boston - MA
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-5">
+    <div class="col-sm-4 mt-3 mt-md-5">
         {% include figure.html path="assets/img/spring-air-intl.png" title="Spring Air International" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
@@ -26,12 +24,12 @@ Spring Air is one the biggest mattress manufacturers in the U.S., with multiple 
 
 <br>
 
-## Hospital Albert Einstein, Sao Paulo - SP, Brazil
+#### Hospital Albert Einstein, Sao Paulo - SP, Brazil
 
 <br>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/albert-einstein.png" title="Albert Einstein Hospital" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
@@ -44,12 +42,12 @@ In the hospital I had the opportunity to develop my programming skills to build 
 
 <br>
 
-## 4D Soft, Budapest, Hungary
+#### 4D Soft, Budapest, Hungary
 
 <br>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         {% include figure.html path="assets/img/4d-soft.png" title="4D Soft" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>

@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 horizontal: false
 ---
-## Soft Skills
+#### Soft Skills
 
 <br>
 
@@ -19,7 +19,7 @@ horizontal: false
 
 <br>
 
-## Hard Skills
+#### Hard Skills
 
 <br>
 

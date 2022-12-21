@@ -8,7 +8,7 @@ nav_order: 3
 horizontal: false
 ---
 
-## Information/Computer Engineering
+#### Information/Computer Engineering
 
 <br>
 
@@ -16,7 +16,7 @@ horizontal: false
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/ufabc.png" title="ufabc" class="img-fluid rounded z-depth-0" %}
     </div>
-    <div class="col-sm-5 mt-3 mt-md-5">
+    <div class="col-sm-4 mt-3 mt-md-5">
         {% include figure.html path="assets/img/fapesp.png" title="fapesp" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
@@ -35,14 +35,14 @@ My final project was a fall detector system for elders and patients, capturing a
 
 As a bachelor student, I was able to maintain high enough grades to receive a scholarship for a Scientific Research Program for FAPESP in Chemistry Learning in 2012. Gathering, organizing and transcripting data where one of the actitivies involved to do the research project. 
 
-## Software Information Engineering Exchange Program
+#### Software Information Engineering Exchange Program
 <br>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-3 mt-2 mt-md-0">
+    <div class="col-sm-2 mt-2 mt-md-0">
         {% include figure.html path="assets/img/elte.png" title="elte" class="img-fluid rounded z-depth-0" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-5">
+    <div class="col-sm-4 mt-3 mt-md-5">
         {% include figure.html path="assets/img/csf.jpeg" title="csf" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
