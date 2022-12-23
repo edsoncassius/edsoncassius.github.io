@@ -18,9 +18,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Edson Cassius. I love technology, games and sports!
 
-I analyze data and build dynamic dashboards to find insights that information is able to provide. I try to find answers to questions that can't be easily seen without a deeper analysis of data.
+I analyze data and build dynamic dashboards to find insights that information is able to provide.
 
-As a machine learning enthusiast, I like to build prediction models using the most recent technologies to promote data-driven decisions and find even more answers and insights.
+As a machine learning enthusiast, I like to build prediction models using the most recent technologies to promote data-driven decisions and find answers to questions and insights.
 
 Passionate with gaming and data, I try to connect both worlds and build programs to connect APIs and databases for transforming and visualizing data.
 
